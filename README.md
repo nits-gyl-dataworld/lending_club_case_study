@@ -35,5 +35,5 @@ Step 5: Results
 
 
 ## Contributors
-Nishit Goyal
-Sonigara Chetan
+- Nishit Goyal
+- Sonigara Chetan
