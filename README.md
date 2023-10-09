@@ -27,11 +27,11 @@ Lending Club Case Study
   
 ## Steps
 
-Step 1: Data Understanding
-Step 2: Data Cleaning 
-Step 3: Univariate Analysis
-Step 4: Bivariate Analysis
-Step 5: Results
+- Step 1: Data Understanding
+- Step 2: Data Cleaning 
+- Step 3: Univariate Analysis
+- Step 4: Bivariate Analysis
+- Step 5: Results
 
 
 ## Contributors
