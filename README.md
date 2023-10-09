@@ -11,10 +11,20 @@ Lending Club Case Study
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+• Consumer finance company faces a critical challenge in making informed loan
+  approval decisions, as these decisions are fraught with two distinct risks: denying
+  a loan to a creditworthy applicant, resulting in a loss of potential business, or
+  approving a loan to a high-risk applicant, potentially leading to financial losses
+  due to default.
+• To mitigate these risks, we need to leverage Exploratory Data Analysis (EDA)
+  techniques on historical loan applicant data. This analysis aims to uncover
+  meaningful patterns and insights within the dataset, specifically focusing on
+  consumer attributes and loan attributes. By doing so, we seek to identify key
+  indicators that correlate with the likelihood of loan default.
+• Ultimately, the objective is to develop a robust understanding of how various
+  factors influence the propensity for default, which will enable us to make datadriven
+  decisions such as denying loans to high-risk applicants, adjusting loan
+  amounts, or offering loans at higher interest rates when necessary
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
